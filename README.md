@@ -2,6 +2,8 @@
 
 [![Invítame a un café en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/johanderohan)
 
+Ficha del proyecto, capturas y más traducciones al castellano en **[Parches en Castellano](https://parchesencastellano.com/traducciones/dreamcast/illbleed)**.
+
 Traducción al **español de España** de *Illbleed* (Dreamcast, 2001), el survival horror de
 Crazy Games (Climax Graphics) publicado por Jaleco en Norteamérica, que nunca salió en español.
 
